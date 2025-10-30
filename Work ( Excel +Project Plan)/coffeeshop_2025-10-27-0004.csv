@@ -1,0 +1,171 @@
+Sum of REVENUE;Column Labels;Column1;Column2;Column3
+Row Labels;Astoria;Hell's Kitchen;Lower Manhattan;Grand Total
+Sun;R32 743,98;R33 621,88;R31 789,25;R98 155,11
+Mon;R33 865,29;R33 316,21;R34 297,23;R101 478,73
+Tue;R31 714,31;R34 783,17;R32 745,96;R99 243,44
+Wed;R34 177,13;R33 712,09;R32 212,32;R100 101,54
+Thu;R34 008,62;R33 399,21;R33 117,60;R100 525,43
+Fri;R33 414,55;R34 667,33;R33 089,07;R101 170,95
+Sat;R31 788,43;R32 529,23;R32 381,32;R96 698,98
+Grand Total;R231 712,31;R236 029,12;R229 632,75;R697 374,18
+;;;;
+;;;;
+Sum of REVENUE;Column Labels;Column1;Column2;Column3
+Row Labels;Astoria;Hell's Kitchen;Lower Manhattan;Grand Total
+Jan;R27 281,66;R27 761,85;R26 487,43;R81 530,94
+Feb;R25 026,59;R25 673,90;R25 261,05;R75 961,54
+Mar;R32 765,68;R33 040,52;R32 846,18;R98 652,38
+Apr;R39 412,66;R40 220,34;R39 089,58;R118 722,58
+May;R52 285,56;R52 505,68;R51 593,82;R156 385,06
+Jun;R54 940,16;R56 826,83;R54 354,69;R166 121,68
+Grand Total;R231 712,31;R236 029,12;R229 632,75;R697 374,18
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+Row Labels;Sum of REVENUE;Sum of REVENUE2;;
+Astoria;R231 712,31;33,23%;;
+Hell's Kitchen;R236 029,12;33,85%;;
+Lower Manhattan;R229 632,75;32,93%;;
+Grand Total;R697 374,18;100,00%;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+Sum of REVENUE;Column Labels;Column1;Column2;Column3
+Row Labels;Astoria;Hell's Kitchen;Lower Manhattan;Grand Total
+6;;R7 516,17;R14 335,35;R21 851,52
+7;R18 979,80;R15 902,70;R28 466,62;R63 349,12
+8;R22 712,15;R31 427,14;R28 244,53;R82 383,82
+9;R23 080,32;R32 727,44;R29 031,67;R84 839,43
+10;R24 252,37;R33 528,56;R30 521,46;R88 302,39
+11;R15 498,13;R17 876,04;R12 891,47;R46 265,64
+12;R15 665,70;R11 328,40;R13 155,74;R40 149,84
+13;R15 947,87;R12 070,10;R12 349,48;R40 367,45
+14;R15 164,92;R12 297,50;R13 831,97;R41 294,39
+15;R15 624,45;R11 311,25;R14 769,90;R41 705,60
+16;R16 110,85;R11 990,48;R13 021,42;R41 122,75
+17;R15 839,30;R12 789,50;R11 505,51;R40 134,31
+18;R15 910,80;R11 863,21;R6 471,69;R34 245,70
+19;R16 925,65;R10 764,26;R736,67;R28 426,58
+20;;R2 636,37;R299,27;R2 935,64
+Grand Total;R231 712,31;R236 029,12;R229 632,75;R697 374,18
+;;;;
+;;;;
+Sum of REVENUE;Column Labels;Column1;Column2;Column3
+Row Labels;Astoria;Hell's Kitchen;Lower Manhattan;Grand Total
+Afternoon;R78 269,54;R58 747,08;R66 879,66;R203 896,28
+Evening;R48 675,75;R38 053,34;R19 013,14;R105 742,23
+Morning;R104 342,87;R138 852,20;R143 276,00;R386 471,07
+Grand Total;R231 288,16;R235 652,62;R229 168,80;R696 109,58
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+Row Labels;Sum of REVENUE;;;
+Bakery;R81 365,14;;;
+Branded;R13 607,00;;;
+Coffee;R269 590,80;;;
+Coffee beans;R40 085,25;;;
+Drinking Chocolate;R72 390,50;;;
+Flavours;R8 408,80;;;
+Loose Tea;R11 213,60;;;
+Packaged Chocolate;R4 407,64;;;
+Tea;R196 305,45;;;
+Grand Total;R697 374,18;;;
+;;;;
+;;;;
+;;;;
+;;;;
+Sum of REVENUE;Column Labels;Column1;Column2;Column3
+Row Labels;Astoria;Hell's Kitchen;Lower Manhattan;Grand Total
+Bakery;R26 418,25;R26 959,20;R27 987,69;R81 365,14
+Branded;R5 457,00;R1 942,00;R6 208,00;R13 607,00
+Coffee;R89 505,20;R91 168,35;R88 917,25;R269 590,80
+Coffee beans;R10 219,20;R18 635,10;R11 230,95;R40 085,25
+Drinking Chocolate;R26 309,75;R23 586,25;R22 494,50;R72 390,50
+Flavours;R1 764,80;R2 876,80;R3 767,20;R8 408,80
+Loose Tea;R3 194,00;R4 461,35;R3 558,25;R11 213,60
+Packaged Chocolate;R1 089,71;R1 698,77;R1 619,16;R4 407,64
+Tea;R67 754,40;R64 701,30;R63 849,75;R196 305,45
+Grand Total;R231 712,31;R236 029,12;R229 632,75;R697 374,18
+;;;;
+;;;;
+;;;;
+Sum of REVENUE;Column Labels;Column1;Column2;
+Row Labels;Weekday;Weekend;Grand Total;
+Bakery;R58 783,84;R22 581,30;R81 365,14;
+Branded;R9 566,00;R4 041,00;R13 607,00;
+Coffee;R194 349,35;R75 241,45;R269 590,80;
+Coffee beans;R28 540,15;R11 545,10;R40 085,25;
+Drinking Chocolate;R52 188,50;R20 202,00;R72 390,50;
+Flavours;R6 006,40;R2 402,40;R8 408,80;
+Loose Tea;R8 093,15;R3 120,45;R11 213,60;
+Packaged Chocolate;R3 120,45;R1 287,19;R4 407,64;
+Tea;R141 872,25;R54 433,20;R196 305,45;
+Grand Total;R502 520,09;R194 854,09;R697 374,18;
+;;;;
+;;;;
+;;;;
+;;;;
+Sum of REVENUE;Column Labels;Column1;Column2;Column3
+Row Labels;Afternoon;Evening;Morning;Grand Total
+Bakery;R22 645,15;R11 409,84;R47 189,95;R81 244,94
+Branded;R3 369,00;R1 668,00;R8 570,00;R13 607,00
+Coffee;R82 679,80;R42 312,25;R143 933,25;R268 925,30
+Coffee beans;R7 880,70;R4 026,00;R28 178,55;R40 085,25
+Drinking Chocolate;R22 244,00;R11 940,50;R38 120,50;R72 305,00
+Flavours;R1 731,20;R896,00;R5 767,20;R8 394,40
+Loose Tea;R2 424,95;R1 402,75;R7 385,90;R11 213,60
+Packaged Chocolate;R928,18;R502,49;R2 976,97;R4 407,64
+Tea;R59 993,30;R31 584,40;R104 348,75;R195 926,45
+Grand Total;R203 896,28;R105 742,23;R386 471,07;R696 109,58
+;;;;
+;;;;
+;;;;
+;Row Labels;Sum of REVENUE;;
+;Barista Espresso;R91 101,90;;
+;Biscotti;R19 793,53;;
+;Black tea;R2 711,85;;
+;Brewed Black tea;R47 904,00;;
+;Brewed Chai tea;R77 040,95;;
+;Brewed Green tea;R23 828,50;;
+;Brewed herbal tea;R47 532,00;;
+;Chai tea;R4 301,25;;
+;Clothing;R6 163,00;;
+;Drinking Chocolate;R2 728,04;;
+;Drip coffee;R31 948,00;;
+;Espresso Beans;R5 560,25;;
+;Gourmet Beans;R6 798,00;;
+;Gourmet brewed coffee;R70 023,60;;
+;Green beans;R1 340,00;;
+;Green tea;R1 470,75;;
+;Herbal tea;R2 729,75;;
+;Hot chocolate;R72 390,50;;
+;House blend Beans;R3 294,00;;
+;Housewares;R7 444,00;;
+;Organic Beans;R8 509,50;;
+;Organic brewed coffee;R37 743,50;;
+;Organic Chocolate;R1 679,60;;
+;Pastry;R24 738,49;;
+;Premium Beans;R14 583,50;;
+;Premium brewed coffee;R38 773,80;;
+;Regular syrup;R6 084,80;;
+;Scone;R36 833,12;;
+;Sugar free syrup;R2 324,00;;
+;Grand Total;R697 374,18;;
